@@ -1,5 +1,3 @@
-# task-manager
-
 Project Code: WST21-PM-2026-SF
 
 Student Name: DIACOMA, VIA 
